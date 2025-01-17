@@ -3,6 +3,14 @@
 
 This project involves analyzing Uber trip data from New York City (2014–2015) to uncover trends, predict demand, and evaluate supply chain metrics. The analysis employs advanced data processing, visualization techniques, and machine learning models.
 
+### Data Access and References  
+Some of the large files used in this project have not been included in the repository due to size constraints. You can download the datasets from the links below:  
+
+1. [Uber Trips Forecasting Using Machine Learning](https://www.kaggle.com/code/jbasurtod/uber-trips-forecasting-using-machine-learning/notebook)  
+2. [Uber: Analyzing Uber Trips](https://www.kaggle.com/code/hillaryjude/uber-analyzing-uber-trips)  
+
+For more details on data cleaning, EDA, and advanced analysis, refer to these resources.
+
 ---
 
 ## Key Features of the Project
