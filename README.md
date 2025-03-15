@@ -1,6 +1,6 @@
 # Uber-Trip--Analysis-Using-Python-Internship-Project
 
-https://raw.githubusercontent.com/your-username/your-repo/main/Uber%20Trip%20Analysis%20Using%20Python.html
+
 This project involves analyzing Uber trip data from New York City (2014–2015) to uncover trends, predict demand, and evaluate supply chain metrics. The analysis employs advanced data processing, visualization techniques, and machine learning models.
 
 ### Data Access and References  
